@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\bin\Debug\net8.0\CanCapture.exe
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\bin\Debug\net8.0\CanCapture.deps.json
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\bin\Debug\net8.0\CanCapture.runtimeconfig.json
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\bin\Debug\net8.0\CanCapture.dll
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\bin\Debug\net8.0\CanCapture.pdb
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\obj\Debug\net8.0\CanCapture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\obj\Debug\net8.0\CanCapture.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\obj\Debug\net8.0\CanCapture.AssemblyInfo.cs
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\obj\Debug\net8.0\CanCapture.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\obj\Debug\net8.0\CanCapture.dll
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\obj\Debug\net8.0\refint\CanCapture.dll
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\obj\Debug\net8.0\CanCapture.pdb
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\obj\Debug\net8.0\CanCapture.genruntimeconfig.cache
+C:\Users\User\Desktop\DanielHaMelech\CanCapture\obj\Debug\net8.0\ref\CanCapture.dll
